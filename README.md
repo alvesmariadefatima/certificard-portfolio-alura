@@ -2,7 +2,9 @@
 
 📁 Repositório criado para armazenar os arquivos relacionados ao meu portfólio pessoal desenvolvido durante a Imersão Dev Alura 2022.
 <br>
+<br>
 🖱 Tecnologias utilizadas: HTML, CSS, JavaScript e a ferramenta CodePen.
+<br>
 <br>
 🔗 Link do Deploy: https://alvesmariadefatima.github.io/certificard-portfolio-alura/
 <br>
